@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "333942261660",
+    "firebase_url": "https://monarchnot.firebaseio.com",
+    "project_id": "monarchnot",
+    "storage_bucket": "monarchnot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333942261660:android:8d8288ca7953dad1",
+        "android_client_info": {
+          "package_name": "uyg1.mehmetonar.com.monarchnot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333942261660-c919rc5po34noe4179cetle90m8hb8b9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uyg1.mehmetonar.com.monarchnot",
+            "certificate_hash": "27e12e705fbfd4c67db7b5d423738ff0ce4cf264"
+          }
+        },
+        {
+          "client_id": "333942261660-vk7ahdt56ig77tmna2uv8dskov320knj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANn8otzTVRbl2EvbzNU9SLN2yx-jduL9Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333942261660-vk7ahdt56ig77tmna2uv8dskov320knj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

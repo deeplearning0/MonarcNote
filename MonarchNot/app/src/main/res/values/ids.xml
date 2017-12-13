@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="memo_navi" type="id">Notlar</item>
+    <item name="reminder_navi" type="id">hatırlatıcı</item>
+</resources>
